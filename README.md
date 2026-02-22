@@ -1,3 +1,10 @@
+![표지](https://github.com/user-attachments/assets/91349a32-6463-45f8-9239-b51af23016e6)
+![랜딩 1](https://github.com/user-attachments/assets/130518de-2fd0-40d3-b866-202a86e8bcfc)
+![랜딩 2](https://github.com/user-attachments/assets/a81a9fed-24de-4430-91c1-f130310c3120)
+![랜딩 3](https://github.com/user-attachments/assets/cb3f38b1-c1bf-4983-ad2c-317b4a27b808)
+![랜딩 4](https://github.com/user-attachments/assets/7de3efec-4ea5-481c-8baa-7c5ce1a3280a)
+![랜딩 5](https://github.com/user-attachments/assets/a4d990ce-631c-447c-94b2-4639def31a6f)
+
 # Tamingo Backend
 
 **Tamingo** 프로젝트의 Spring Boot 기반 백엔드 레포지토리입니다.
