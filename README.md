@@ -130,3 +130,4 @@
 | **Merge**            | 브랜치 병합               | `Merge: feature/schedule-detail`         |
 | **!BREAKING CHANGE** | 하위 호환 불가 변경          | `!BREAKING CHANGE: 일정 API 응답 구조 변경`      |
 | **!HOTFIX**          | 운영 긴급 수정             | `!HOTFIX: 출발 알림 실패 긴급 수정`                |
+
